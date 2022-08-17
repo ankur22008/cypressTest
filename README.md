@@ -8,7 +8,7 @@ to execute scripts follow below steps
 4. execute $(npm bin)/cypress open to open cypress runner
 5. click on E2E test and then the file you want to execute 
 
-
+ latest branch : main
 
 location of test : cypress/e2e/user/festivals_api.js 
 
