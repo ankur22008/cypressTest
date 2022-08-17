@@ -8,7 +8,7 @@ const { defineConfig } = require('cypress');
 module.exports = defineConfig({
   env: {
 
-    baseUrl: 'http://localhost:4200/festivals'
+    baseUrl: 'http://localhost:4200'
   },
 
   chromeWebSecurity: false,
